@@ -5,8 +5,8 @@
   - Cloud Environments
   - Mobile Applications
 - 🌱 I’m currently learning 
-  - Rust
-  - Golang
+  - Android Jetpack Compose
+  - Kotlin
 - 💞️ I’m looking to collaborate on interesting open source projects especially those providing intuitive and innovative APIs. 
 - 📫 How to reach me 
   - email: joe.hawkescates@gmail.com
