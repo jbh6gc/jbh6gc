@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @jbh6gc
 - 👀 I’m interested in:
+  - Mobile Applications
   - Backend Platform Services
   - Web Services
   - Cloud Environments
-  - Mobile Applications
 - 🌱 I’m currently learning 
   - Android Jetpack Compose
   - Kotlin
